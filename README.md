@@ -1,3 +1,8 @@
-# AgencijaZaNekretnine
+# RealEstateAgencyWinForms
 
-TEST FOR README
+Technologies:
+
+C# - Windows Forms, SQL
+
+Description:
+
