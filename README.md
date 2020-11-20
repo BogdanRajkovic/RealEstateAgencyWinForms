@@ -1,3 +1,3 @@
-# AgencijaZaNekretnineMVC
+# AgencijaZaNekretnine
 
 TEST FOR README
