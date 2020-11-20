@@ -1,0 +1,13 @@
+C:\Users\Bogdan\source\repos\Agencija za nekretnine\Agencija za nekretnine\bin\Debug\Agencija za nekretnine.exe.config
+C:\Users\Bogdan\source\repos\Agencija za nekretnine\Agencija za nekretnine\bin\Debug\Agencija za nekretnine.exe
+C:\Users\Bogdan\source\repos\Agencija za nekretnine\Agencija za nekretnine\bin\Debug\Agencija za nekretnine.pdb
+C:\Users\Bogdan\source\repos\Agencija za nekretnine\Agencija za nekretnine\obj\Debug\Agencija za nekretnine.csprojResolveAssemblyReference.cache
+C:\Users\Bogdan\source\repos\Agencija za nekretnine\Agencija za nekretnine\obj\Debug\Agencija_za_nekretnine.Form1.resources
+C:\Users\Bogdan\source\repos\Agencija za nekretnine\Agencija za nekretnine\obj\Debug\Agencija_za_nekretnine.Properties.Resources.resources
+C:\Users\Bogdan\source\repos\Agencija za nekretnine\Agencija za nekretnine\obj\Debug\Agencija za nekretnine.csproj.GenerateResource.Cache
+C:\Users\Bogdan\source\repos\Agencija za nekretnine\Agencija za nekretnine\obj\Debug\Agencija za nekretnine.csproj.CoreCompileInputs.cache
+C:\Users\Bogdan\source\repos\Agencija za nekretnine\Agencija za nekretnine\obj\Debug\Agencija za nekretnine.exe
+C:\Users\Bogdan\source\repos\Agencija za nekretnine\Agencija za nekretnine\obj\Debug\Agencija za nekretnine.pdb
+C:\Users\Bogdan\source\repos\Agencija za nekretnine\Agencija za nekretnine\obj\Debug\Agencija_za_nekretnine.frmUnosNekretnine.resources
+C:\Users\Bogdan\source\repos\Agencija za nekretnine\Agencija za nekretnine\obj\Debug\Agencija_za_nekretnine.Administrator.resources
+C:\Users\Bogdan\source\repos\Agencija za nekretnine\Agencija za nekretnine\obj\Debug\Agencija_za_nekretnine.frmKupovinaNekretnine.resources
